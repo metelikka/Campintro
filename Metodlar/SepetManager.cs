@@ -18,7 +18,7 @@ namespace Metodlar
         public void Ekle(Urun urun)
         {
 
-            Console.WriteLine("Sepete eklendi : " + urun.Adi);
+            Console.WriteLine("Sepete eklendi : " + urun.Adi );
         }
         public void Ekle2() { }
 
